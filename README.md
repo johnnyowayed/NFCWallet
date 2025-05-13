@@ -2,8 +2,6 @@
 
 A modern iOS application for managing various types of NFC cards in a single, secure digital wallet.
 
-![CardWallet App Screenshot](https://via.placeholder.com/800x400?text=CardWallet+Screenshot)
-
 ## Features
 
 - **Multiple Card Support**: Store unlimited cards of different types (access cards, ID cards, transit cards)
