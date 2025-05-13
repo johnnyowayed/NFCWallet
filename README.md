@@ -11,12 +11,6 @@ A modern iOS application for managing various types of NFC cards in a single, se
 - **Elegant UI**: Beautiful card carousel interface
 - **NFC Simulation**: Simulate using cards via NFC
 
-## Requirements
-
-- iOS 14.0+
-- Xcode 13.0+
-- iPhone with NFC capabilities
-
 ## Installation
 
 1. Clone this repository
