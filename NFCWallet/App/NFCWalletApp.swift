@@ -2,7 +2,7 @@
 //  NFCWalletApp.swift
 //  NFCWallet
 //
-//  Created by Johnny Owayed on 06/05/2025.
+//  Created by Johnny Owayed on 13/05/2025.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct NFCWalletApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CardListView()
         }
     }
 }
