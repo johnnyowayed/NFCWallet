@@ -1,4 +1,4 @@
-# CardWallet
+# NFCWallet
 
 A modern iOS application for managing various types of NFC cards in a single, secure digital wallet.
 
@@ -20,7 +20,7 @@ A modern iOS application for managing various types of NFC cards in a single, se
 ## Installation
 
 1. Clone this repository
-2. Open `CardWallet.xcodeproj` in Xcode
+2. Open `NFCWallet.xcodeproj` in Xcode
 3. Select your target device (must have NFC capabilities)
 4. Build and run the app
 
@@ -36,7 +36,7 @@ This project follows the MVVM (Model-View-ViewModel) architecture pattern for cl
 ## Folder Structure
 
 ```
-CardWallet/
+NFCWallet/
 ├── App/
 │   └── NFCWalletApp.swift
 │
